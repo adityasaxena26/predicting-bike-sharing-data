@@ -36,7 +36,7 @@ The data comes from the UCI Machine Learning Database.https://archive.ics.uci.ed
 This dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
 
 ### Dataset characteristics
-=========================================
+
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
 
 - instant: record index
