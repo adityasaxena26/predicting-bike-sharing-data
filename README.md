@@ -48,11 +48,11 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - holiday : weather day is holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
 - weekday : day of the week
 - workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
-+ weathersit :
- - 1: Clear, Few clouds, Partly cloudy, Partly cloudy
- - 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
- - 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
- - 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
+* weathersit :
+    * 1: Clear, Few clouds, Partly cloudy, Partly cloudy
+    * 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+    * 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+    * 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
 - temp : Normalized temperature in Celsius. The values are divided to 41 (max)
 - atemp: Normalized feeling temperature in Celsius. The values are divided to 50 (max)
 - hum: Normalized humidity. The values are divided to 100 (max)
