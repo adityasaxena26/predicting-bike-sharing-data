@@ -60,3 +60,10 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
+
+### Softwares Required
+* [Python 2.7 or higher](https://www.python.org/downloads/)
+* [NumPy](https://pypi.org/project/numpy/)
+* [Matplotlib](https://pypi.org/project/matplotlib/)
+* [Pandas](https://pypi.org/project/pandas/)
+* [Jupyter Notebook](https://jupyter.org/install)
