@@ -36,9 +36,22 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-## Software and Libraries
+### Software and Libraries
 * [Python 2.7 or higher](https://www.python.org/downloads/)
 * [NumPy](https://pypi.org/project/numpy/)
 * [Matplotlib](https://pypi.org/project/matplotlib/)
 * [Pandas](https://pypi.org/project/pandas/)
 * [Jupyter Notebook](https://jupyter.org/install)
+
+### Project Instructions
+
+- Clone the repository and navigate to the downloaded folder.
+
+ `git clone https://github.com/adityasaxena26/predicting-bike-sharing-data.git`
+
+ `cd predicting-bike-sharing-data`
+- Run the following to open up the notebook server:`jupyter notebook`
+
+- In your browser, open `my_first_neural_network.ipynb`
+
+- Edit the `my_answers.py` python file, whose components are imported into the notebook at various places.
